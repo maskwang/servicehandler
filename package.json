@@ -1,0 +1,23 @@
+{
+  "name": "servicehandler",
+  "version": "0.0.0",
+  "description": "NodeJs ServiceHandler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maskwang/servicehandler.git"
+  },
+  "keywords": [
+    "Service",
+    "Handler"
+  ],
+  "author": "maskwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maskwang/servicehandler/issues"
+  },
+  "homepage": "https://github.com/maskwang/servicehandler"
+}
